@@ -15,8 +15,6 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 
 ### Reading
 
-[
-
 [1]: https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/
 [2]: http://singlepageappbook.com/goal.html
 [3]: http://backbonejs.org/
