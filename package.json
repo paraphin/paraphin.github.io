@@ -1,0 +1,19 @@
+{
+  "name": "paraphin.github.io",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {
+    "jade": "^1.7.0",
+    "markdown": "^0.5.0"
+  },
+  "scripts": {
+    "install": "node ./node_modules/jade/bin/jade.js ./index.jade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paraphin/paraphin.github.io.git"
+  },
+  "author": "Ben Krieger <blitzrk@gmail.com>",
+  "license": "None",
+  "homepage": "https://paraphin.github.io/"
+}

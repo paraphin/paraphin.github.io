@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Paraphin</title><style>body {
+body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
   line-height: 1.6;
@@ -274,22 +274,4 @@ pre {
   border-radius: 3px; }
   pre code, pre tt {
     background-color: transparent;
-    border: none; }</style></head><body><h1>Paraphin Inc.</h1>
-
-<p>We build <a href="https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/">responsive</a> <a href="http://singlepageappbook.com/goal.html">single page apps</a> with Javascript, Node.js, and SASS.</p>
-
-<h2>Software Stack - BREW</h2>
-
-<ul><li><a href="http://backbonejs.org/">Backbone.js</a> - a minimal framework that makes single page apps easier to develop</li><li><a href="http://facebook.github.io/react/">React.js</a> - a library that uses JSX to make UI components with very fast data binding</li><li><a href="http://expressjs.com/">Express</a> - Node.js&#39;s webapp framework, which organizes the backend very well</li><li><a href="http://webpack.github.io/docs/what-is-webpack.html">Webpack</a> - Packages assets into optimized bundles to reduce network load</li></ul>
-
-<h2>Workflow</h2>
-
-<p>Some of us use <a href="http://www.sublimetext.com/3">Sublime Text</a>, while others use <a href="https://atom.io/">Atom</a> for text editing. Ben has been working on a cross-platform Sublime plugin to compile SASS files (see <a href="https://github.com/blitzrk/libsass-build-sublime">github.com/blitzrk/libsass-build-sublime</a>).</p>
-
-<h2>Xoshoal</h2>
-
-<p>For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storage. For the frontend, we are using <a href="http://bourbon.io/">Bourbon</a> and <a href="http://neat.bourbon.io/">Neat</a> as a SASS framework. For now, we are creating all of our UI elements from scratch.</p>
-
-<h3>Reading</h3>
-
-<ul><li><a href="http://singlepageappbook.com/goal.html">Why Single Page Apps?</a></li><li></li></ul></body></html>
+    border: none; }

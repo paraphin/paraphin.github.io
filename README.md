@@ -1,4 +1,7 @@
+Only edit `index.md` and `assets/main.css`. After each edit, run
+
 ```
-$ npm install -g github-markdown
-$ ghmd index.md
+$ npm install
 ```
+
+to install missing dependencies and rebuild html file.
