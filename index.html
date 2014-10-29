@@ -274,9 +274,24 @@ pre {
   border-radius: 3px; }
   pre code, pre tt {
     background-color: transparent;
-    border: none; }body {
+    border: none; }html, body {
+  margin: 0;
+  padding: 0;
+  background: lightgray;
+}
+
+div.content {
+  padding: 0 30px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin: 0 auto;
+  
   max-width: 1000px;
-  margin: auto;
+  min-height: 100vh;
+
+  background: white;
 }
 
 h2, h3, h4, h5, h6, p, li, a {
@@ -284,6 +299,8 @@ h2, h3, h4, h5, h6, p, li, a {
 }
 
 h1 {
+  margin: 0;
+  padding: 0;
   font-family: 'Cherry Cream Soda', cursive;
   font-weight: 700;
   font-size: 3em;
@@ -293,7 +310,7 @@ h1 {
 li {
   padding: 0;
   margin: 0;
-}</style></head><body><h1>Paraphin Inc.</h1>
+}</style></head><body><div class="content"><h1>Paraphin Inc.</h1>
 
 <p>We build <a href="https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/">responsive</a> <a href="http://singlepageappbook.com/goal.html">single page apps</a> with Javascript, Node.js, and <a href="http://sass-lang.com/">SASS</a>.</p>
 
@@ -327,4 +344,4 @@ li {
 
 <h3>Bonus</h3>
 
-<ul><li><a href="http://evhead.com/2005/11/ten-rules-for-web-startups.asp">10 Rules for Web Startups</a></li></ul></body></html>
+<ul><li><a href="http://evhead.com/2005/11/ten-rules-for-web-startups.asp">10 Rules for Web Startups</a></li></ul></div></body></html>
