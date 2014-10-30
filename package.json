@@ -7,7 +7,7 @@
     "markdown": "^0.5.0"
   },
   "scripts": {
-    "install": "node ./node_modules/jade/bin/jade.js ./index.jade"
+    "build": "node ./node_modules/jade/bin/jade.js ./index.jade"
   },
   "repository": {
     "type": "git",

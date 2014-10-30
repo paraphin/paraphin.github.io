@@ -1,7 +1,17 @@
-Only edit `index.md` and `assets/main.css`. After each edit, run
+# paraphin.github.io
+
+## Installation
 
 ```
 $ npm install
 ```
 
-to install missing dependencies and rebuild html file.
+## Build
+
+Only edit `index.md` and `assets/main.css`. After each edit, run
+
+```
+$ npm run build
+```
+
+to regenerate html file.

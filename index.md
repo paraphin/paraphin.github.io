@@ -34,14 +34,16 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 * [Using React as Backbone View](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [More React + Backbone](https://medium.com/react-tutorials/react-backbone-model-8aaec65a546c)
 * [RESTful API with Express](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
-* [Learning React](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts) - save parts 2 and 3 for later
+* [Learning React](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts) - save parts 2 through 4 for later
 * [Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 * [Getting Started with SASS](http://scotch.io/tutorials/css/getting-started-with-sass)
 
 ### When You're Ready
 
-* [Learning React Part 2](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js) - and [Part 3](http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture)
+* [Learning React Part 2](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js)
+* [Learning React Part 3](http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture)
+* [Learning React Part 4](http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux)
 * [LamerNews' API](https://github.com/antirez/lamernews) - it's in Ruby, but you will find reading `public/js/app.js` and `app.rb` extremely helpful
 * [Crazy CSS Stuff to Inspire You](http://tympanus.net/codrops/2013/07/05/using-custom-data-attributes-and-pseudo-elements/) - see also [Scotch.io](http://scotch.io/)'s Codepens of the Week
 * [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - more of a reference and for self-development
