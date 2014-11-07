@@ -25,6 +25,7 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 
 * [Buy this book](http://smile.amazon.com/Software-Engineer-Learns-JavaScript-jQuery-ebook/dp/B00GAMTRI8/ref=sr_1_1?ie=UTF8&qid=1414525426&sr=8-1&keywords=javascript+html5)
 * [Now forget jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/)
+* [Understand what makes JS different](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
 * [Keep reading!](http://www.html5rocks.com/en/) - programming is 90% the motivation to never ever take a break from learning new things
 
 ### Right Away
@@ -42,6 +43,7 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 
 ### When You're Ready
 
+* [Isomorphic JS and Design Patterns](http://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
 * [Learning React Part 2](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js)
 * [Learning React Part 3](http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture)
 * [Learning React Part 4](http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux)
