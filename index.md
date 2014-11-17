@@ -31,6 +31,7 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 ### Right Away
 
 * [Why Single Page Apps?][2]
+* [Unit Testing](http://code.tutsplus.com/articles/unit-testing-succintly-strategies-for-unit-tests--cms-22414)
 * [SPA with Backbone Tutorial](http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417) - you can just skim the view part, because...
 * [Using React as Backbone View](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [More React + Backbone](https://medium.com/react-tutorials/react-backbone-model-8aaec65a546c)
@@ -50,6 +51,24 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 * [LamerNews' API](https://github.com/antirez/lamernews) - it's in Ruby, but you will find reading `public/js/app.js` and `app.rb` extremely helpful
 * [Crazy CSS Stuff to Inspire You](http://tympanus.net/codrops/2013/07/05/using-custom-data-attributes-and-pseudo-elements/) - see also [Scotch.io](http://scotch.io/)'s Codepens of the Week
 * [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - more of a reference and for self-development
+
+### Stay Motivated
+
+* [Eat an Elephant](http://www.smashingmagazine.com/2014/10/17/be-a-better-designer-by-eating-an-elephant/)
+* [This is a Scam](https://thegrid.io/)
+
+### Devs are designers, too!
+
+* [Low-fi Prototyping](http://www.smashingmagazine.com/2014/10/06/the-skeptics-guide-to-low-fidelity-prototyping/)
+* [Mobile Wayfinding](http://www.smashingmagazine.com/2014/10/13/wayfinding-for-the-mobile-web/)
+* [<sub>Text Size</sub>](http://www.smashingmagazine.com/2014/09/29/balancing-line-length-font-size-responsive-web-design/)
+* [Framing Effective Messages](http://www.smashingmagazine.com/2014/11/11/framing-effective-messages-to-motivate-your-users/)
+* [Less Common CSS Units](http://code.tutsplus.com/articles/7-css-units-you-might-not-know-about--cms-22573)
+
+### Research for the Future
+
+* [What are Hybrid Apps?](http://www.smashingmagazine.com/2014/10/21/providing-a-native-experience-with-web-technologies/)
+* [Intel XDK Intro](http://code.tutsplus.com/articles/getting-started-with-intel-xdk--cms-22205)
 
 ### Bonus
 
