@@ -61,7 +61,7 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 
 * [Low-fi Prototyping](http://www.smashingmagazine.com/2014/10/06/the-skeptics-guide-to-low-fidelity-prototyping/)
 * [Mobile Wayfinding](http://www.smashingmagazine.com/2014/10/13/wayfinding-for-the-mobile-web/)
-* [<sub>Text Size</sub>](http://www.smashingmagazine.com/2014/09/29/balancing-line-length-font-size-responsive-web-design/)
+* [Text Size](http://www.smashingmagazine.com/2014/09/29/balancing-line-length-font-size-responsive-web-design/)
 * [Framing Effective Messages](http://www.smashingmagazine.com/2014/11/11/framing-effective-messages-to-motivate-your-users/)
 * [Less Common CSS Units](http://code.tutsplus.com/articles/7-css-units-you-might-not-know-about--cms-22573)
 
