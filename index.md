@@ -33,10 +33,11 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 * [Why Single Page Apps?][2]
 * [Unit Testing](http://code.tutsplus.com/articles/unit-testing-succintly-strategies-for-unit-tests--cms-22414)
 * [SPA with Backbone Tutorial](http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417) - you can just skim the view part, because...
+* [Learning React](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts) - save parts 2 through 4 for later
 * [Using React as Backbone View](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [More React + Backbone](https://medium.com/react-tutorials/react-backbone-model-8aaec65a546c)
 * [RESTful API with Express](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
-* [Learning React](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts) - save parts 2 through 4 for later
+* [Redis Pub/Sub](http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239)
 * [ES6 A+ Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
