@@ -13,7 +13,7 @@ We build [responsive][1] [single page apps][2] with Javascript, Node.js, and [SA
 
 Some of us use [Sublime Text][7], while others use [Atom][8] for text editing. Ben has been working on a cross-platform Sublime plugin to compile SASS files (see [github.com/blitzrk/libsass-build-sublime](https://github.com/blitzrk/libsass-build-sublime)). However, unless you have compilation errors that you're finding hard to debug, webpack handles compiling SASS, so by having a terminal running `webpack --watch --progress --colors` and another running `node server` allows you to have a fully functional local deployment. One catch is that you may need to change the `myHostname` for [everyauth][9].
 
-We like to host on DigitalOcean with a Ubuntu 14.04 droplet. Don't worry about this, though, because we have hooks in place to automate deployment.
+We like to host on DigitalOcean with an Ubuntu 14.04 droplet. Don't worry about this, though, because we have hooks in place to automate deployment.
 
 ## Xoshoal
 
@@ -26,6 +26,7 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 * [Buy this book](http://smile.amazon.com/Software-Engineer-Learns-JavaScript-jQuery-ebook/dp/B00GAMTRI8/ref=sr_1_1?ie=UTF8&qid=1414525426&sr=8-1&keywords=javascript+html5)
 * [Now forget jQuery](http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/)
 * [Understand what makes JS different](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html)
+* [JS vs Native](http://readwrite.com/2014/11/17/html5-javascript-everywhere-mobile-tom-dale-emberjs)
 * [Keep reading!](http://www.html5rocks.com/en/) - programming is 90% the motivation to never ever take a break from learning new things
 
 ### Right Away
