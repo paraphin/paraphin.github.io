@@ -55,7 +55,8 @@ For the backend, we are using a mix of Redis, MongoDB, and Neo4j for data storag
 ### Stay Motivated
 
 * [Eat an Elephant](http://www.smashingmagazine.com/2014/10/17/be-a-better-designer-by-eating-an-elephant/)
-* [This is a Scam](https://thegrid.io/)
+* [Mobile JS Performance](http://blog.codinghorror.com/the-tablet-turning-point/)
+* [Total BS - Probably Vaporware](https://thegrid.io/)
 
 ### Devs are designers, too!
 
